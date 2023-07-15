@@ -4,7 +4,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [RSS feed reader in terminal](https://www.codementor.io/projects/tool/rss-feed-reader-in-terminal-atx32jp82q)
 
 ## Tech/framework used
-Built with ___
+Built in Python 3.10
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
